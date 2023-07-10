@@ -47,3 +47,11 @@ API Features:
 13. POST /api/user/:userId/friends/:friendId - add a friend to a user's friend list
 14. DELETE /api/user/:userId/friends/:friendId - remove a friend from a user's friend list
 
+## GitHub Repository: 
+[GitHub Repository Link:](https://github.com/codingprincess111/social-network-api-1)
+
+## Walk-though video
+[Walk-though link:]()
+
+## Screenshots
+[Screenshot](./img/app-screenshot.png)
