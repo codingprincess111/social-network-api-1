@@ -11,8 +11,7 @@ The API leverages the power of Node.js and Mongoose, providing a flexible and sc
 - [Usage Instructions](#Usage-Instructions)
 - [Built With](#Built-With)
 - [What I Learned](#What-I-Learned)
-- [Continued Development](#Continued-Development)
-- [Acknowledgements](#Acknowledgements) 
+- [Continued Development](#Continued-Development) 
 
 # Overview
 
@@ -50,8 +49,22 @@ API Features:
 ## GitHub Repository: 
 [GitHub Repository Link:](https://github.com/codingprincess111/social-network-api-1)
 
-## Walk-though video
-[Walk-though link:]()
+## Walk-through video
+[Walk-through link:](https://drive.google.com/file/d/1lIfCav4e3rpL5mA_Wagl5ZFNbT9T6PG4/view?usp=sharing)
 
 ## Screenshots
 [Screenshot](./img/app-screenshot.png)
+
+## Built with
+
+JSON, Mongoose, Express, Node.js, Postman, MongoDB, VS Code.
+
+## What I learned
+
+1. Built a RESTful API with Node.JS and Mongoose.
+2. Used NoSQL database to handle unstructed data
+3. Created endpoints for CRUD operations on users, thoughts, and reactions data models.
+4. Tested endpoints in Postman
+
+## Continued Development:
+I would like to continue working on this project as it is an interesting challenge that requires knowledge of backend. Explore different types of NoSQL databases and evaluate their sustainability for future projects. 
